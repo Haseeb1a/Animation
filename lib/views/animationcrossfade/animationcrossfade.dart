@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:homeset/controller/animationcrossfade_controller.dart';
-import 'package:homeset/views/animated_alin/animated_aline.dart';
 import 'package:provider/provider.dart';
 
 class Animationcrossfadepage extends StatelessWidget {
